@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Catalina Sabogal</h1>
 <h3 align="center">👋 Hey there, welcome to my profile! I'm a 💻 UX UI Designer and Full Stack Developer with a 🎓 double major in Advertising and Marketing and a 🌟 specialization in Digital Marketing. With experience working in diverse industries like 🛍️ retail, 💰 finance, 🏥 healthcare, and 🍔 food, I've developed a diverse skill set and an adaptable approach to design and development. I'm passionate about creative strategy and love to push boundaries to 🚀 improve and evolve. Let's connect and collaborate on some exciting projects!</h3>
-
  <h2 align="center"> 💠  You can see my 
-<!--   <a href="https://github.com/Juligs/Juligs/tree/main/PersonalProjects"> -->
+  <a href="https://github.com/Juligs/Juligs/tree/main/PersonalProjects](https://github.com/csabogalortiz/Csabogalortiz/blob/main/myProjects/README.md)">
  personal projects here👩🏽‍💻 
   </a> </h2>
   
