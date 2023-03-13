@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <a href="https://artsy-feeling.netlify.app/feed"> 🔹ArtsFeel </a></h1>
+ <a href="https://artsy-feeling.netlify.app/feed"> 🖌️ ArtsyFeel </a></h1>
  <div align="center">
  <img src="gifart.gif" width="500" height="300"/>
  </div>
@@ -10,11 +10,10 @@
  <a align="center" href="https://github.com/Juligs/Af-Client"> 🔹Client repository </a>
  <a align="center" href="https://github.com/Juligs/Af-Server"> 🔹Server repository </a>
  </div>
-<hr> 
- 
+
 <hr>
 <h1 align="center">
-<a href="https://csabogalortiz.github.io/GOMEZ-SABOGAL-GAME/"> 🔹Star Ninja </a></h1>
+<a href="https://csabogalortiz.github.io/GOMEZ-SABOGAL-GAME/"> 🕹️ Star Ninja </a></h1>
   <div align="center">
  <img src="starninja.gif" width="500" height="300"/>
  </div>
