@@ -10,6 +10,18 @@
  <a align="center" href="https://github.com/Juligs/Af-Client"> 🔹Client repository </a>
  <a align="center" href="https://github.com/Juligs/Af-Server"> 🔹Server repository </a>
  </div>
+ 
+ 
+ <h1 align="center">
+ <a href="https://www.figma.com/proto/A0oRGqHL3kr0AJoQ1K8BQa/CSABOGAL-PORTAFOLIO?node-id=291%3A1351&scaling=scale-down-width&page-id=79%3A311&starting-point-node-id=529%3A1164&hotspot-hints=0&hide-ui=1"> 🌎Digital Nomad World </a></h1>
+ <div align="center">
+ <img src="gifart.gif" width="500" height="300"/>
+ </div>
+<p> </p>                                                   
+<p align="center"> A social networking site for finding work-from-home locations globally. The JS-developed app is now live and available to explore.</p>
+<div align="center">
+ <a align="center" href="https://github.com/csabogalortiz/DNW"> 🔹 Repository </a>
+ </div>
 
 <hr>
 <h1 align="center">
