@@ -7,7 +7,10 @@
   
   <hr>
 
-<h3> 💻 Checkout my Portfolio!</h3>  [https://t.ly/2muu](https://t.ly/2muu)
+<h2 align="center"> 💠  Also for more UX UI and Development projcts checkout my
+  <a href="https://t.ly/2muu">
+ Portfolio💻
+  </a> </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
