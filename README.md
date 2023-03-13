@@ -4,10 +4,8 @@
   <a href="https://github.com/csabogalortiz/Csabogalortiz/tree/main/myProjects">
  personal projects here👩🏽‍💻 
   </a> </h2>
-  
-  <hr>
 
-<h2 align="center"> 💠  Also for more UX UI and Development projcts checkout my
+<h2 align="center"> For more UX UI and Development projcts checkout my
   <a href="https://t.ly/2muu">
  Portfolio💻
   </a> </h2>
