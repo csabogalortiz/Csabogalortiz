@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Catalina Sabogal</h1>
 <h3 align="center">👋 Hey there, welcome to my profile! I'm a 💻 UX UI Designer and Full Stack Developer with a 🎓 double major in Advertising and Marketing and a 🌟 specialization in Digital Marketing. With experience working in diverse industries like 🛍️ retail, 💰 finance, 🏥 healthcare, and 🍔 food, I've developed a diverse skill set and an adaptable approach to design and development. I'm passionate about creative strategy and love to push boundaries to 🚀 improve and evolve. Let's connect and collaborate on some exciting projects!</h3>
 
-<h3 align="left">Hey! I'm an artist too! Check it out!:</h3>
+- 👨‍💻 All of my projects are available at [https://t.ly/2muu](https://t.ly/2muu)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/laflorentinna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laflorentinna" height="30" width="40" /></a>
 </p>
