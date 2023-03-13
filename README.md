@@ -5,7 +5,8 @@
  personal projects here👩🏽‍💻 
   </a> </h2>
 
-<h2 align="center"> For more UX UI and Development projcts checkout my
+
+<h2 align="center"> 🌟 For more UX UI and Development projcts checkout my
   <a href="https://t.ly/2muu">
  Portfolio💻
   </a> </h2>
