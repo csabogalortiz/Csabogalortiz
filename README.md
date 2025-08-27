@@ -17,15 +17,6 @@ I bridge design and technology to deliver solutions that are both functional and
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://instagram.com/laflorentinna" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laflorentinna" height="30" width="40" />
-</a>
-</p>
-
----
-
 ### 🛠 Skills & Tools
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
